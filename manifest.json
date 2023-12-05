@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Modified by AvgZing, Originally by JermsyBoy",
+        "name": "Yellow Birch, Greener Acacia",
+        "uuid": "75d1c728-40d7-4e3a-9af0-1ed01ae35446",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Modified by AvgZing, Originally by JermsyBoy",
+            "type": "resources",
+            "uuid": "f934792a-b3cd-42b2-bf20-efb57af1eab4",
+            "version": [0, 0, 1]
+        }
+    ]
+}

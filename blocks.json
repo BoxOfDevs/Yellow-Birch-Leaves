@@ -1,0 +1,28 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "air": {},
+  "leaves": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    },
+    "textures": "leaves",
+    "carried_textures": "leaves_carried",
+    "brightness_gamma": 0.80,
+    "sound": "grass"
+  },
+  "leaves2": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    },
+    "textures": "leaves2",
+    "carried_textures": "leaves_carried2",
+    "brightness_gamma": 0.80,
+    "sound": "grass"
+  },
+  }
